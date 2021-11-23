@@ -51,9 +51,6 @@ Made with HTML-CSS-SCSS-SASS
 -I made the project using Visual Studio Code
 
 -I preferred to use Sass in the project. Because it provided opportunities such as nesting, mixins, inheritance and I wanted to try it. I tried to use the opportunities it offered to the best of my ability.
-## Yazarlar ve Teşekkür
-
-- [@katherinepeterson](https://www.github.com/octokatherine) tasarım ve geliştirme için.
 
   
 ## Resources
